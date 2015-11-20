@@ -1,0 +1,20 @@
+Server starts listening on port 8080
+Client /127.0.0.1 connected !
+Client /127.0.0.1 connected !
+{"Type":"Ready"}
+{"Type":"Ready"}
+{"Desc":"123","Type":"Tag","Area":[-1,-1,-1,-1,-1,5,6,-1,-1,-1,-1,-1,-1,-1,-1,-1],"Size":123,"Source":"res/assignment4TestData/skater.png"}
+{"Type":"Ans","Value":true}
+{"Type":"Ready"}
+{"Type":"Ready"}
+{"Type":"Ready"}
+{"Desc":"head","Type":"Tag","Area":[-1,-1,-1,-1,-1,-1,-1,-1,8,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],"Size":98,"Source":"res/assignment4TestData/skater.png"}
+{"Type":"Ans","Value":true}
+{"Type":"Ready"}
+{"Type":"Ready"}
+{"Type":"Ready"}
+{"Desc":"red eye","Type":"Tag","Area":[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,24,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],"Size":92,"Source":"res/assignment4TestData/1171373243.jpg"}
+{"Type":"Ans","Value":true}
+{"Type":"Ready"}
+{"Type":"Ready"}
+{"Type":"Ready"}
